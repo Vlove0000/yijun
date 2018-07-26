@@ -1,0 +1,3 @@
+﻿  intint.cpp
+f:\全是程序vs\intint\intint\intint.cpp(10): error C3892: “a”: 不能给常量赋值
+f:\全是程序vs\intint\intint\intint.cpp(11): error C3892: “b”: 不能给常量赋值
