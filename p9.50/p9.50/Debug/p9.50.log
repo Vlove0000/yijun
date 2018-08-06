@@ -1,0 +1,2 @@
+﻿  p9.50.cpp
+f:\全是程序vs\p9.50\p9.50\p9.50.cpp(16): error C2677: 二进制“+=”: 没有找到接受“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”类型的全局运算符(或没有可接受的转换)
